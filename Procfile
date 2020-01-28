@@ -1,1 +1,2 @@
-web: gunicorn app:HerokuNakama
+web: gunicorn app:app
+
